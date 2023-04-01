@@ -4,7 +4,6 @@
 
 <div align="center" width="50">
 
-<img src="https://c.tenor.com/mZcLvRm6JZEAAAAC/hack-cyrilmp4.gif" alt="Welcome!" width="300"/>
 <script src="https://tryhackme.com/badge/341137"></script>
 </div>
 
