@@ -1,11 +1,11 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝓚𝓚𝓸𝓷𝓪𝓝𝓝/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, KonaN! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
 
 <img src="https://c.tenor.com/mZcLvRm6JZEAAAAC/hack-cyrilmp4.gif" alt="Welcome!" width="300"/>
-
+<script src="https://tryhackme.com/badge/341137"></script>
 </div>
 
 <div align="center">
