@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<script src="https://tryhackme.com/badge/341137"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/KonaNFF.png" alt="TryHackMe">
 </div>
 
 <div align="center">
