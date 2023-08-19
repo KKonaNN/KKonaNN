@@ -11,7 +11,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://discord.gg/perdition-development-847892794710425631"><b>here</b></a><hr>
+Ask me anything <a href="https://discord.com/users/592439347400409088"><b>here</b></a><hr>
 <i>Happy Coding!</i> 😊
 
 </div>
