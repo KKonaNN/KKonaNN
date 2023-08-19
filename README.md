@@ -22,10 +22,5 @@ Ask me anything <a href="https://discord.com/users/592439347400409088"><b>here</
 
 </br>
 
-
-<i>Follow me 🧐</i><br>
-
-<a href="https://discord.gg/26mSMhWs3q" target="_blank"><img src="https://img.shields.io/badge/Discord-%230A0A0A.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discrod Server Link"></a>
-
 </div>
 
