@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/KonaNFF.png" alt="TryHackMe">
 </div>
 
