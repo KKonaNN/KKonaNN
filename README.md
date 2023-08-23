@@ -1,26 +1,54 @@
-<div align="center">
-<h2> KonaN <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-
 <div align="center" width="50">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/KonaNFF.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KonaNFF.png" alt="TryHackMe">
 </div>
 
-<div align="center">
+<p href="https://discord.com/users/592439347400409088" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/592439347400409088/>
+</p>
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://discord.com/users/592439347400409088"><b>here</b></a><hr>
-<i>Happy Coding!</i> 😊
+```python
+class Attributes(Tekky):
+	@staticmethod
+	def channels() -> tuple:
+            discord  = "discord.gg/n73G6KJwhU"
 
-</div>
+            return discord
 
-<div align="center">
+	@staticmethod
+	def contact() -> tuple:
+	    discord  = "kkonann"
+	    
+	    return discord
+	
+	@staticmethod
+	def life() -> tuple:
+		langs         = ['Arabic', 'English', 'French']
+		age           = 19
+		
+		return langs, age
+	
+	@staticmethod
+	def coding() -> tuple:
+		langs = {
+			'expert':   ['python', 'js', 'lua'],
+			'intermediate': ['c++', 'c#'],
+			'learning': ['react']
+		}
+		specialities  = ['web/app reverse engineering', 'fullstack']
+		environnement = ['vscode']
+		
+		return langs, specialities, environnement
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KKonaNN&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="KKonaNN's Github Stats">
+```
+<h2 align="center">Skills </h2>
 
-</br>
+<p align="center">
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=python,lua,vscode,cpp,cs,js,css,html,sql," />
+  </a>
+</p>
 
-</div>
+<p href="https://discord.com/users/592439347400409088" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=kkonann&theme=tokyonight&show_icons=true">
+</p>
 
