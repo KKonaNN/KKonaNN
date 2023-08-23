@@ -7,7 +7,7 @@
 </p>
 
 ```python
-class Attributes(Tekky):
+class Attributes(KonaN):
 	@staticmethod
 	def channels() -> tuple:
             discord  = "discord.gg/n73G6KJwhU"
