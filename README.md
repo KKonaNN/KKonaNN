@@ -43,8 +43,8 @@ class Attributes(KonaN):
 <h2 align="center">Skills </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=python,lua,vscode,cpp,cs,js,css,html,sql," />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,php,python,lua,arduino,cpp,cs,vscode,js,css,html" />
   </a>
 </p>
 
