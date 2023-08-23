@@ -31,7 +31,7 @@ class Attributes(KonaN):
 	def coding() -> tuple:
 		langs = {
 			'expert':   ['python', 'js', 'lua'],
-			'intermediate': ['c++', 'c#'],
+			'intermediate': ['php', 'c++', 'c#'],
 			'learning': ['react']
 		}
 		specialities  = ['web/app reverse engineering', 'fullstack']
