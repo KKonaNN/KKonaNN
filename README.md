@@ -9,13 +9,13 @@
 ```python
 class Attributes(KonaN):
 	@staticmethod
-	def channels():
+	def channels() -> str:
             discord  = "discord.gg/n73G6KJwhU"
 
             return discord
 
 	@staticmethod
-	def contact():
+	def contact() -> str:
 	    discord  = "kkonann"
 	    
 	    return discord
