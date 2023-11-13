@@ -3,7 +3,7 @@
 </div>
 
 <p href="https://discord.com/users/592439347400409088" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/592439347400409088?animated=true"/>
+    <img src="https://lanyard.cnrad.dev/api/592439347400409088?borderRadius=30px"/>
 </p>
 
 ```python
