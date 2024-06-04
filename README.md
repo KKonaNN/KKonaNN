@@ -4,8 +4,8 @@
 
 <hr>
 
-<div>
-    <img src="https://lanyard.cnrad.dev/api/592439347400409088?borderRadius=30px"/>
+<div align="center">
+    <img src="https://lanyard.cnrad.dev/api/592439347400409088?borderRadius=30px" />
 </div>
 
 
