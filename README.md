@@ -5,8 +5,8 @@
 <hr>
 
 <div style="display: flex;">
-    <img src="https://lanyard.cnrad.dev/api/592439347400409088?borderRadius=30px" style="width: 502px; height: auto;"/>
-    <img src="https://github.com/KKonaNN/KKonaNN/assets/87090666/43a70c7c-26cc-4a90-9fcb-9dccf65fde13" style="width: 502px; height: auto;" />
+    <img src="https://lanyard.cnrad.dev/api/592439347400409088?borderRadius=30px" style="width: 500px; height: auto;"/>
+    <img src="https://github.com/KKonaNN/KKonaNN/assets/87090666/43a70c7c-26cc-4a90-9fcb-9dccf65fde13" style="width: 500px; height: auto;" />
 </div>
 
 
