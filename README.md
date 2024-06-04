@@ -1,10 +1,14 @@
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/KonaN.png" alt="TryHackMe">
+<div align="center" >
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KonaN.png" alt="TryHackMe" style="width: 300px; height: auto;">
 </div>
+
 <hr>
-<p href="https://discord.com/users/592439347400409088" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/592439347400409088?borderRadius=30px"/>
-</p>
+
+<div style="display: flex;">
+    <img src="https://lanyard.cnrad.dev/api/592439347400409088?borderRadius=30px" style="width: 502px; height: auto;"/>
+    <img src="https://github.com/KKonaNN/KKonaNN/assets/87090666/43a70c7c-26cc-4a90-9fcb-9dccf65fde13" style="width: 502px; height: auto;" />
+</div>
+
 
 ```python
 class Attributes(KonaN):
