@@ -52,7 +52,7 @@ class Attributes(KonaN):
         langs = {
             'expert': ['python', 'js', 'lua'],
             'intermediate': ['php', 'c++', 'c#'],
-            'learning': ['react']
+            'learning': ['react', 'Machine Learning']
         }
         specialities = ['web/app reverse engineering', 'fullstack']
         environnement = ['vscode']
