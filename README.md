@@ -1,13 +1,8 @@
 <div align="center" >
-  <img src="https://tryhackme-badges.s3.amazonaws.com/KonaN.png" alt="TryHackMe"> 
+
 </div>
 
 <hr>
-
-<div align="center">
-    <img src="https://lanyard.cnrad.dev/api/592439347400409088?borderRadius=30px" />
-</div>
-
 
 ```python
 class Attributes(KonaN):
